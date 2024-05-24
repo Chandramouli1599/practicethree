@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940658525631",
+    "project_id": "investco-179cc",
+    "storage_bucket": "investco-179cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940658525631:android:30ea7a8e620b9c60318d0a",
+        "android_client_info": {
+          "package_name": "com.example.practicethree"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk7WqPh8Cz4ZqCEoY7kAeCU3qVAOVJyzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
